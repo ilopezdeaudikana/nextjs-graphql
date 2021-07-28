@@ -1,6 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Repos from graphql
+
+This app requests repositories from Github using their graphql api. It was created using `Next`, `Apollo Client`, `React`, `Typescript`, `React hooks`, `Redux`, `Sagas`, `Antd` and `Styled components` and tested using `Jest`.
+
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
