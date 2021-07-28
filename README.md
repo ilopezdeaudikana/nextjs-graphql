@@ -1,6 +1,6 @@
 # Repos from graphql
 
-This app requests repositories from Github using their graphql api. It was created using `Next`, `Apollo Client`, `React`, `Typescript`, `React hooks`, `Redux`, `Sagas`, `Antd` and `Styled components` and tested using `Jest`.
+This app requests repositories from Github using their graphql api. It was created using `Next`, `Apollo Client`, `React`, `Typescript`, `React hooks`, `Antd` and `Styled components` and tested using `Jest`.
 
 
 ## Getting Started
